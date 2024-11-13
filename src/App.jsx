@@ -1,11 +1,10 @@
 import "./App.css";
-import { TopBar, SideBar, Home } from "./components";
+import { Layout } from "./Layout";
+import { Home } from "./components";
 const App = () => (
-  <>
-    <TopBar />
-    <SideBar />
+  <Layout>
     <Home />
-  </>
+  </Layout>
 );
 
 export default App;

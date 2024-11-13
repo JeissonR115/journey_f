@@ -1,5 +1,5 @@
 import reactLogo from "../../assets/react.svg";
-import { Menu } from "../Menu";
+import { Menu } from "../";
 import { Profile } from "../Profile";
 import "./index.css";
 export const TopBar = () => (

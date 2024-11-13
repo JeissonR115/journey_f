@@ -8,12 +8,7 @@ const listItems = [
   {
     clase: "",
     name: "Trayectos Especiales",
-    link: "#",
-  },
-  {
-    clase: "",
-    name: "Trayectos Especiales",
-    link: "#",
+    link: "/journey/special",
   },
 ];
 

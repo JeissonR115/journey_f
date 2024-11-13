@@ -1,1 +1,6 @@
-export const JourneySpecial = () => <p>hola</p>;
+// export const JourneySpecial = () => (
+//   <div className="journey-special">
+//     <BtnNewJourney />
+//     <TblNewJourney />
+//   </div>
+// );
