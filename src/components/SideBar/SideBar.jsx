@@ -3,7 +3,7 @@ const listItems = [
   {
     clase: "",
     name: "Inicio",
-    link: "#",
+    link: "/home",
   },
   {
     clase: "",
